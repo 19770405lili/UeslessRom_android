@@ -6,7 +6,7 @@ Getting started
 
 To initialize your local repository using the LineageOS trees, use a command like this:
 ```
-repo init -u https://github.com/LineageOS/android.git -b cm-13.0
+repo init -u https://github.com/19770405lili/UeslessRom_android -b cm-13.0
 ```
 Then to sync up:
 ```
